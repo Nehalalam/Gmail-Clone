@@ -1,0 +1,1 @@
+This is a simple Gmail Clone UI made using HTML and CSS. It includes a top navbar, a left sidebar with mail folders, and an email list section. The project focuses on clean layout structure and understanding how email dashboards are designed. No JavaScript included.
